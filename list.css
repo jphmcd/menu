@@ -1,0 +1,38 @@
+
+
+html {
+  height: 100%;
+}
+
+header {
+  padding: 10px;
+  background:#888 ;
+  color: #000 ;
+  text-align: left;
+}
+
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  text-align: left;
+  float: left;
+}
+
+section {
+  text-align:left;
+  float: left;
+  clear: left;
+  margin: 0;
+  height: 100%;
+  font-color: purple;
+  clear: left;
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: #888 ;
+  text-align: left ;
+}
