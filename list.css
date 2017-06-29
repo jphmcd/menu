@@ -15,12 +15,20 @@ header {
 body {
   margin: 0;
   height: 100%;
-  font-family: times new roman;
+  font-family: helvetica;
+  list-style-type: none;
 }
 
-ul {
-  list-style: none;
+
+nav {
+  list-style-type: none;
 }
+
+
+ul {
+  list-style-type: none;
+}
+
 
 footer {
   clear: left; /* don't modify */
