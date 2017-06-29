@@ -15,19 +15,11 @@ header {
 body {
   margin: 0;
   height: 100%;
-  font-family: helvetica;
-  text-align: left;
-  float: left;
+  font-family: times new roman;
 }
 
-section {
-  text-align:left;
-  float: left;
-  clear: left;
-  margin: 0;
-  height: 100%;
-  font-color: purple;
-  clear: left;
+ul {
+  list-style: none;
 }
 
 footer {
